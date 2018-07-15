@@ -1,0 +1,13 @@
+{
+  "defaultSeverity": "error",
+  "extends": "tslint-config-airbnb",
+  "rules": {
+    "indent": [true, "spaces", 2],
+    "no-unused-variable": true,
+    "no-implicit-dependencies": [true, "dev"],
+    "ordered-imports": true,
+    "no-var-requires": true,
+    "quotemark": [true, "double"]
+  },
+  "rulesDirectory": []
+}
