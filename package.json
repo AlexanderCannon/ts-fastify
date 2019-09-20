@@ -19,7 +19,7 @@
   "dependencies": {
     "@types/jest": "^23.1.6",
     "fastify": "^2.6.0",
-    "tslint-config-airbnb": "^5.9.2",
+    "tslint-config-airbnb": "^5.11.2",
     "typescript": "^2.9.2"
   },
   "devDependencies": {
