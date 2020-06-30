@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/jest": "^23.1.6",
-    "fastify": "^2.6.0",
+    "fastify": "^2.15.1",
     "tslint-config-airbnb": "^5.9.2",
     "typescript": "^2.9.2"
   },
